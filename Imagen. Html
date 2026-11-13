@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imágenes - Historia de México</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            padding: 2rem;
+        }
+        h2 {
+            color: #2c5282;
+            margin: 2rem 0 1rem;
+        }
+        .img-container {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        img {
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+            max-width: 100%;
+            height: auto;
+        }
+        .descripcion {
+            margin-top: 1rem;
+            font-style: italic;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 class="text-center mb-5">🖼️ Imágenes - Historia de México</h1>
+    <hr>
+
+    <!-- Imagen 1: Independencia -->
+    <h2>Progresión 1: La Independencia</h2>
+    <div class="img-container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Independencia_de_M%C3%A9xico.jpg/640px-Independencia_de_M%C3%A9xico.jpg" alt="Inicio de la Independencia">
+        <p class="descripcion">→ Inicio de la Independencia de México, 16 de septiembre de 1810</p>
+    </div>
+
+    <!-- Imagen 2: Benito Juárez -->
+    <h2>Progresión 2: El Liberalismo</h2>
+    <div class="img-container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Benito_Ju%C3%A1rez.jpg/640px-Benito_Ju%C3%A1rez.jpg" alt="Benito Juárez">
+        <p class="descripcion">→ Benito Juárez — Líder del liberalismo mexicano</p>
+    </div>
+
+    <!-- Imagen 3: Batalla de Puebla -->
+    <h2>Progresión 3: Las Invasiones Extranjeras</h2>
+    <div class="img-container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Batalla_de_Puebla.jpg/640px-Batalla_de_Puebla.jpg" alt="Batalla de Puebla">
+        <p class="descripcion">→ Batalla de Puebla, 5 de mayo de 1862</p>
+    </div>
+
+    <!-- Imagen 4: Constitución de 1857 -->
+    <h2>Progresión 2: Las Leyes Mexicanas</h2>
+    <div class="img-container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Constituci%C3%B3n_de_1857.jpg/640px-Constituci%C3%B3n_de_1857.jpg" alt="Constitución de 1857">
+        <p class="descripcion">→ Constitución Federal de los Estados Unidos Mexicanos de 1857</p>
+    </div>
+
+    <!-- Imagen 5: Tratado de Guadalupe Hidalgo -->
+    <h2>Progresión 3: Guerra con Estados Unidos</h2>
+    <div class="img-container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tratado_de_Guadalupe_Hidalgo.jpg/640px-Tratado_de_Guadalupe_Hidalgo.jpg" alt="Tratado de Guadalupe Hidalgo">
+        <p class="descripcion">→ Tratado de Guadalupe Hidalgo, 1848</p>
+    </div>
+
+</body>
+</html>
