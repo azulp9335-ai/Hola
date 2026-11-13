@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas - Historia de México</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            padding: 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        h2 {
+            color: #2c5282;
+            margin: 2.5rem 0 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #a1dbca;
+        }
+        h4 {
+            color: #2d3748;
+            margin-top: 1.5rem;
+        }
+        ul, ol {
+            background-color: #ffffff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+        }
+        li {
+            margin-bottom: 0.6rem;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 class="text-center mb-5">📋 Listas y Resúmenes — Historia de México</h1>
+    <hr>
+
+    <!-- Progresión 1 -->
+    <h2>🔹 Progresión 1: La lucha por la Independencia</h2>
+
+    <h4>📌 Principales causas de la Independencia</h4>
+    <ul>
+        <li>Desigualdad social y económica entre la población.</li>
+        <li>Influencia de las ideas de libertad, igualdad y fraternidad.</li>
+        <li>La crisis política en España tras la invasión napoleónica de 1808.</li>
+        <li>El descontento por las altas contribuciones y los monopolios comerciales.</li>
+    </ul>
+
+    <h4>📌 Personajes destacados</h4>
+    <ol>
+        <li><strong>Miguel Hidalgo y Costilla:</strong> Inició la lucha el 16 de septiembre de 1810.</li>
+        <li><strong>Ignacio Allende:</strong> Militar y líder del movimiento inicial.</li>
+        <li><strong>José María Morelos:</strong> Organizó la lucha y definió los ideales de la independencia.</li>
+        <li><strong>Josefa Ortiz de Domínguez:</strong> Apoyó la conspiración en Querétaro.</li>
+        <li><strong>Vicente Guerrero:</strong> Continuó la resistencia y logró la independencia en 1821.</li>
+    </ol>
+
+    <!-- Progresión 2 -->
+    <h2>🔹 Progresión 2: El liberalismo y las leyes mexicanas</h2>
+
+    <h4>📌 Documentos importantes</h4>
+    <ul>
+        <li><strong>Constitución de 1824:</strong> Estableció la República Federal y dividió el territorio en estados libres y soberanos.</li>
+        <li><strong>Constitución de 1857:</strong> Consagró las libertades de enseñanza, imprenta, trabajo y petición. Estableció la división de poderes.</li>
+        <li><strong>Leyes de Reforma (1859):</strong> Separaron a la Iglesia del Estado, nacionalizaron bienes eclesiásticos y establecieron el registro civil.</li>
+    </ul>
+
+    <!-- Progresión 3 -->
+    <h2>🔹 Progresión 3: Las invasiones extranjeras</h2>
+
+    <h4>📌 Conflictos principales</h4>
+    <ol>
+        <li>
+            <strong>Guerra con Estados Unidos (1846–1848)</strong>
+            <ul>
+                <li>Causa: Disputas territoriales y la anexión de Texas.</li>
+                <li>Resultado: Tratado de Guadalupe Hidalgo — México perdió más del 50% de su territorio.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Primera Intervención Francesa — Guerra de los Pasteles (1838–1839)</strong>
+            <ul>
+                <li>Causa: Reclamaciones económicas de ciudadanos franceses.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Segunda Intervención Francesa (1862–1867)</strong>
+            <ul>
+                <li>5 de mayo de 1862: Victoria mexicana en la Batalla de Puebla.</li>
+                <li>Se estableció el Segundo Imperio con Maximiliano de Habsburgo.</li>
+                <li>1867: Las fuerzas republicanas recuperaron el país.</li>
+            </ul>
+        </li>
+    </ol>
+
+    <!-- Progresión 4 -->
+    <h2>🔹 Progresión 4: Los cambios políticos y sociales</h2>
+
+    <h4>📌 Dos visiones de país</h4>
+    <ul>
+        <li><strong>Los Liberales:</strong> Querían una República Federal, leyes iguales para todos, libertad de cultos y educación laica.</li>
+        <li><strong>Los Conservadores:</strong> Preferían un gobierno centralista, mantener los privilegios de la Iglesia y el ejército, y preservar tradiciones coloniales.</li>
+    </ul>
+
+    <h4>📌 Consecuencias de las guerras</h4>
+    <ul>
+        <li>La economía nacional quedó muy dañada.</li>
+        <li>Se perdieron vidas y recursos humanos y materiales.</li>
+        <li>Se retrasó el desarrollo del país.</li>
+        <li>Se fortaleció la identidad y soberanía nacionales.</li>
+    </ul>
+
+</body>
+</html>
